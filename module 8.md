@@ -16,15 +16,12 @@ Algorithm:
  
 Program:
 
-//type your code here
 
-
-
-
+```
 Output:
 
 
-//paste your output here
+<img width="1320" height="767" alt="image" src="https://github.com/user-attachments/assets/778d9802-a9ef-4b71-8f8c-36bc813a7929" />
 
 
 
